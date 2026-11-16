@@ -105,6 +105,22 @@ p { margin: 0 0 14px; }
 .drift { animation: drift 60s linear infinite; }
 @keyframes drift { to { transform: translateX(-1600px); } }
 
+.tile, .phero .in, .banner { position: relative; isolation: isolate; overflow: hidden; }
+.tile::before, .phero .in::before, .banner::before {
+  content: ""; position: absolute; z-index: -1; width: 70%; aspect-ratio: 1; left: 15%; top: 10%; border-radius: 50%; pointer-events: none;
+  background: radial-gradient(closest-side, rgba(62, 106, 225, .16), rgba(62, 106, 225, 0) 70%);
+  animation: glow 16s ease-in-out infinite alternate; }
+.tone-dark.tile::before, .phero .in.tone-dark::before, .banner.tone-dark::before { background: radial-gradient(closest-side, rgba(62, 106, 225, .30), rgba(62, 106, 225, 0) 70%); }
+.tile:nth-child(2n)::before { animation-duration: 19s; animation-delay: -6s; }
+.tile:nth-child(3n)::before { animation-duration: 23s; animation-delay: -11s; }
+@keyframes glow {
+  0%   { transform: translate(-30%, -10%) scale(.9); }
+  50%  { transform: translate(20%, 25%) scale(1.15); }
+  100% { transform: translate(35%, -15%) scale(1); } }
+.tile .stage .art { transition: transform .8s var(--ease); }
+.tile:hover .stage .art { transform: translateY(-6px) scale(1.03); }
+.banner .scene { z-index: -1; }
+
 .carousel { position: relative; height: 100vh; height: 100svh; min-height: 640px; overflow: hidden; }
 .slide { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: space-between; align-items: center; text-align: center;
   padding: calc(56px + 11vh) 24px 10vh; opacity: 0; visibility: hidden; transition: opacity 1s var(--ease), visibility 1s; }
