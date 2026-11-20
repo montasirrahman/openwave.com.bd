@@ -234,6 +234,38 @@ form.form { display: grid; gap: 18px; }
 .tfoot a { color: var(--muted); }
 .tfoot a:hover { color: var(--ink); }
 
+.tfoot .legal { margin: 10px 0 0; }
+
+.facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 24px 40px; margin: 0; }
+.facts > div { border-top: 1px solid var(--t16); padding-top: 16px; }
+.facts dt { font-size: 13px; color: var(--muted); margin-bottom: 4px; }
+.facts dd { margin: 0; color: var(--ink); font-weight: 500; font-size: 17px; }
+.facts.small { grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 16px 32px; margin: 20px 0; }
+.facts.small dd { font-size: 15px; }
+.certs { display: grid; gap: 16px; }
+.cert { display: grid; grid-template-columns: 1.35fr 1fr; gap: 56px; padding: 40px; border-radius: var(--r-tile); background: var(--t04); }
+.cert .kicker, .regband .kicker { display: flex; align-items: center; gap: 8px; font-size: 13px; font-weight: 500; color: var(--muted); margin-bottom: 10px; }
+.cert .kicker .ico, .regband .kicker .ico { width: 16px; height: 16px; color: var(--accent); }
+.cert h3 { font-size: clamp(24px, 2.2vw, 30px); font-weight: 500; letter-spacing: -0.02em; }
+.cert .bn { font-size: .6em; color: var(--muted); font-weight: 400; letter-spacing: 0; margin-left: 6px; }
+.cert .signed { display: flex; gap: 10px; font-size: 14px; }
+.cert .signed .ico { width: 18px; height: 18px; color: var(--accent); margin-top: 2px; }
+.cert .ctas { gap: 12px; margin-top: 8px; }
+.cert-verify h4 { font-size: 13px; font-weight: 500; color: var(--muted); letter-spacing: .02em; }
+.cert-verify .ticks { margin: 12px 0 0; font-size: 15px; }
+.note { margin-top: 28px; font-size: 14px; }
+.note a { color: var(--accent); }
+.note a:hover { color: var(--accent-h); }
+.regband { display: flex; justify-content: space-between; align-items: center; gap: 24px 40px; flex-wrap: wrap; padding: 32px 40px; border-radius: var(--r-tile); background: var(--t04); }
+.regband h3 { font-size: 24px; margin-bottom: 4px; }
+.regband p { margin: 0; font-size: 15px; }
+@media (max-width: 900px) {
+  .cert { grid-template-columns: 1fr; gap: 28px; padding: 28px 24px; }
+  .cert .ctas .btn { flex: 1 1 100%; min-width: 0; }
+  .regband { padding: 28px 24px; }
+  .regband .btn { width: 100%; min-width: 0; }
+}
+
 .js .reveal { opacity: 0; transform: translateY(20px); transition: opacity .8s var(--ease), transform .8s var(--ease); }
 .js .reveal.in { opacity: 1; transform: none; }
 @media (prefers-reduced-motion: reduce) {
