@@ -1,0 +1,90 @@
+# Openwave
+
+> Openwave is the brand of Openwave Solutions Limited, a limited company registered in Bangladesh with the RJSC (Reg. No. C-215423/2026, incorporated 9 November 2026), based in Dhaka. It helps organisations put AI to work — AI strategy and audit, AI agents and RAG, orchestration and automation, data platforms, cloud, cybersecurity and software (open-source and licensed) — and exports fresh vegetables and fruits from Bangladesh as Openwave Export.
+
+- Website: https://www.openwave.com.bd/
+- Email: info@openwave.com.bd
+- Company registration and certificate: https://www.openwave.com.bd/company/
+- Openwave Export (fresh produce): https://www.export.openwave.com.bd/
+- Client support: https://support.openwave.com.bd/
+
+## Services
+
+- [AI Strategy & Audit](https://www.openwave.com.bd/services/ai-audit/): Find where AI pays off — and where it doesn't. We review your processes, data, systems and risks, then deliver a prioritised roadmap of AI use cases with expected value, effort and readiness. Includes: Process and data-readiness assessment; Use-case discovery and ROI scoring; Security, privacy and AI-governance review; Vendor and tool landscape; 90-day action plan with quick wins.
+- [Training & Enablement](https://www.openwave.com.bd/services/training/): Teams that know how to use AI well — and safely. Hands-on workshops for leaders, staff and engineers: practical AI use, prompt skills, copilots at work, data privacy and responsible-AI policy. Includes: Executive AI briefings; Copilot and assistant adoption programmes; Prompting and workflow workshops; Engineer training on RAG and agents; AI usage policy and guidelines.
+- [Data & AI Platform](https://www.openwave.com.bd/services/core-tech-stack/): The foundation AI needs to run reliably. We design and build the platform underneath: data pipelines, warehouses, vector search, model serving, identity and observability — sized for your budget. Includes: Data warehouse / lakehouse and pipelines; Vector databases and model serving; Evaluation and monitoring (MLOps); Identity, access and secrets management; Cloud, hybrid or on-premise.
+- [AI Agents & RAG](https://www.openwave.com.bd/services/ai-agents-rag/): Assistants that answer from your knowledge and take real actions. We build retrieval-augmented assistants and tool-using agents grounded in your data — with source citations, access control and evaluation so answers stay accurate. Includes: Knowledge assistants over your documents and data; Works in any language; Tool-using agents connected to your systems; Permission-aware retrieval; Accuracy test sets and monitoring.
+- [Orchestration & Automation](https://www.openwave.com.bd/services/orchestration-automation/): Connect your systems and let routine work run itself. We automate repetitive work across email, ERP, CRM, documents and spreadsheets — with human approval where it matters and a full audit trail. Includes: Workflow automation and integration; Document processing (invoices, forms, contracts); Scheduled and event-driven agents; Approval flows and audit logs; Dashboards for every automated process.
+- [Data & Analytics](https://www.openwave.com.bd/services/data-analytics/): One version of the truth, on every screen. We bring data from your systems together, clean it, and turn it into dashboards, reports and forecasts people actually use. Includes: Data integration and cleaning; BI dashboards and self-service reporting; Forecasting and anomaly detection; Data quality and governance; Embedded analytics in your apps.
+- [Custom Software](https://www.openwave.com.bd/services/custom-software/): Web apps, portals and integrations built around your work. Product-grade web and mobile applications, customer portals and integrations — designed, built, tested and supported by one team. Includes: Web and mobile applications; Customer and partner portals; APIs and system integrations; UX design and prototyping; Testing, CI/CD and handover.
+- [Cloud & DevOps](https://www.openwave.com.bd/services/cloud-devops/): Modern infrastructure: fast to change, hard to break. Cloud migration, containers, CI/CD and infrastructure as code — on public cloud, private servers or both — with backups and disaster recovery built in. Includes: Cloud and hybrid migration; Containers and Kubernetes; CI/CD and infrastructure as code; Backup and disaster recovery; Cost optimisation.
+- [Cybersecurity & Compliance](https://www.openwave.com.bd/services/cybersecurity/): Protect your data, people and AI systems. Security assessments, identity and access, endpoint and email protection, and governance for AI — so innovation doesn't open new risks. Includes: Security assessment and hardening; Identity, MFA and access reviews; Email and endpoint protection; AI governance and data-privacy controls; Incident response planning.
+- [Managed Services](https://www.openwave.com.bd/services/managed-services/): We run it, monitor it and fix it — with clear SLAs. Monitoring, patching, backups and a help desk for the systems we build or you already have, with response times you can plan around. Includes: Monitoring and alerting; Patching and updates; Backup checks and restores; Help desk with SLAs; Monthly health reports.
+- [Open-Source Solutions](https://www.openwave.com.bd/services/open-source-solutions/): Proven open-source platforms — deployed and supported. We select, deploy, harden and support open-source platforms so you avoid licence lock-in without carrying the operational burden yourself. Includes: Self-hosted AI models and search; Odoo ERP, helpdesk and collaboration platforms; PostgreSQL, Kubernetes, Docker; Security hardening and updates; Support contracts with SLAs.
+- [Licensed Software](https://www.openwave.com.bd/services/licensed-software/): Enterprise software from major vendors, set up properly. We help you choose, license, deploy and manage commercial cloud and productivity software — Microsoft, Google and others — through vendor partner programs we are joining. Includes: Productivity and collaboration suites; Cloud platforms and AI services; Licence planning and cost optimisation; Migration and deployment; Ongoing administration.
+
+## Solutions
+
+- [Knowledge Assistant](https://www.openwave.com.bd/solutions/knowledge-assistant/): Ask your organisation anything — get answers with sources. A private assistant over your policies, manuals, contracts and reports. It answers in any language, cites the exact source and respects who may see what. Includes: Connects to file shares, SharePoint, Drive and wikis; Answers with citations; Role-based access; Runs in your cloud or on-premise.
+- [Customer Service AI](https://www.openwave.com.bd/solutions/customer-service-ai/): Instant answers on web and messaging — people when it matters. An assistant for your website and messaging channels that resolves common questions, collects details and hands over to staff with full context. Includes: Website chat and messaging apps; Hand-over to your team; Learns from resolved tickets; Dashboards for volume and satisfaction.
+- [Document Intelligence](https://www.openwave.com.bd/solutions/document-intelligence/): Invoices, forms and contracts that process themselves. Read scans and PDFs, extract the fields you need, check them against your rules and post them to your systems — with a person approving anything unusual. Includes: Invoices, purchase orders, IDs, contracts; Validation against your rules; Approval queue for exceptions; Posts to ERP and accounting.
+- [Private AI](https://www.openwave.com.bd/solutions/private-ai/): Modern AI on your own servers. Your data never leaves. A complete AI platform — open models, search and assistants — installed on your infrastructure for organisations that cannot send data to public AI services. Includes: Open-source models on your hardware; No data leaves your network; Single sign-on and audit logs; Upgrades and support included.
+- [Modern Workplace](https://www.openwave.com.bd/solutions/modern-workplace/): Email, documents, meetings and AI copilots — done right. Roll out and manage Microsoft 365 or Google Workspace, migrate mail and files safely, and adopt AI copilots with the right security settings and training. Includes: Mail and file migration; Security baseline and MFA; Copilot / Gemini adoption; Ongoing administration.
+- [ERP & Business Systems](https://www.openwave.com.bd/solutions/erp-business-systems/): Accounting, sales, inventory and HR in one system. Odoo-based ERP implementation — accounting, sales, purchase, inventory, manufacturing and HR — configured for how you work, with AI automation on top. Includes: Implementation and data migration; Local tax and reporting needs; Integrations with your other systems; Training and support.
+- [Data & BI Dashboards](https://www.openwave.com.bd/solutions/data-bi/): Live numbers for every decision. Connect your systems into one data platform and give every team live dashboards — sales, finance, operations — with alerts when something changes. Includes: Data platform setup; Executive and team dashboards; Alerts and scheduled reports; Forecasts and trends.
+- [Sales & CRM Automation](https://www.openwave.com.bd/solutions/sales-crm-automation/): Never lose a lead. Follow up automatically. CRM set-up with AI that captures leads from every channel, scores them, drafts follow-ups and keeps your pipeline clean. Includes: Lead capture from web and messaging; AI lead scoring; Drafted follow-ups and reminders; Pipeline dashboards.
+
+## Industries
+
+Manufacturing & RMG, Banking & Finance, Healthcare, Retail & E-commerce, Telecom & Technology, Government & NGOs, Education, Agriculture & Export, Logistics, Real Estate & Construction.
+
+## Questions and answers
+
+### What is Openwave?
+
+Openwave is the brand of Openwave Solutions Limited, a limited company registered in Bangladesh with the RJSC (Reg. No. C-215423/2026, incorporated on 9 November 2026). Openwave helps organisations put AI to work — strategy, AI agents, automation, data, cloud, security and software — and exports fresh vegetables and fruits from Bangladesh as Openwave Export.
+
+### What services does Openwave offer?
+
+Twelve services in four groups. Strategy: AI Strategy & Audit, Training & Enablement. Build: Data & AI Platform, AI Agents & RAG, Orchestration & Automation, Data & Analytics, Custom Software. Run: Cloud & DevOps, Cybersecurity & Compliance, Managed Services. Software: Open-Source Solutions, Licensed Software.
+
+### What is an AI audit and what do I get from it?
+
+An AI audit reviews your processes, data, systems and risks, then gives you a prioritised roadmap of AI use cases with expected value, effort and readiness. It covers data readiness, use-case discovery and ROI scoring, a security, privacy and AI-governance review, the vendor and tool landscape, and a 90-day action plan with quick wins.
+
+### What are AI agents and RAG?
+
+RAG (retrieval-augmented generation) assistants answer questions from your own documents and data and cite their sources. AI agents go further and take real actions in your systems. Openwave builds both with permission-aware retrieval, accuracy test sets and monitoring so answers stay accurate.
+
+### Can we run AI privately, without sending data to public AI services?
+
+Yes. Openwave's Private AI installs a complete AI platform — open-source models, search and assistants — on your own infrastructure, so no data leaves your network. It includes single sign-on, audit logs, upgrades and support.
+
+### Which languages do Openwave's AI assistants work in?
+
+Any language your staff and customers use. Assistants answer in the user's language and cite the exact source.
+
+### Does Openwave use open-source or licensed software?
+
+Open source first, and licensed software where it fits better. Openwave helps you choose, license, deploy and manage commercial cloud and productivity software through vendor partner programs it is joining.
+
+### Which industries does Openwave work with?
+
+Manufacturing & RMG, banking & finance, healthcare, retail & e-commerce, telecom & technology, government & NGOs, education, agriculture & export, logistics, and real estate & construction.
+
+### Does Openwave implement ERP systems?
+
+Yes. Openwave implements Odoo-based ERP — accounting, sales, purchase, inventory, manufacturing and HR — configured for how you work, with data migration, integrations, training and support, and AI automation on top.
+
+### Is Openwave a registered company?
+
+Yes. Openwave Solutions Limited is registered with the Registrar of Joint Stock Companies and Firms (RJSC), Bangladesh, Reg. No. C-215423/2026, under the Companies Act 1994. The digitally signed Certificate of Incorporation is published unchanged on the Company page so anyone can verify it.
+
+### Where is Openwave based?
+
+In Dhaka, Bangladesh.
+
+### How do I start a project with Openwave?
+
+Send a few lines about your goal through the contact form at www.openwave.com.bd/contact or email info@openwave.com.bd. An engineer replies within one business day. Many clients start with a short AI audit.
+

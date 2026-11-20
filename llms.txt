@@ -1,0 +1,47 @@
+# Openwave
+
+> Openwave is the brand of Openwave Solutions Limited, a limited company registered in Bangladesh with the RJSC (Reg. No. C-215423/2026, incorporated 9 November 2026), based in Dhaka. It helps organisations put AI to work — AI strategy and audit, AI agents and RAG, orchestration and automation, data platforms, cloud, cybersecurity and software (open-source and licensed) — and exports fresh vegetables and fruits from Bangladesh as Openwave Export.
+
+- Website: https://www.openwave.com.bd/
+- Email: info@openwave.com.bd
+- Company registration and certificate: https://www.openwave.com.bd/company/
+- Openwave Export (fresh produce): https://www.export.openwave.com.bd/
+- Client support: https://support.openwave.com.bd/
+
+## Services
+
+- [AI Strategy & Audit](https://www.openwave.com.bd/services/ai-audit/): Find where AI pays off — and where it doesn't.
+- [Training & Enablement](https://www.openwave.com.bd/services/training/): Teams that know how to use AI well — and safely.
+- [Data & AI Platform](https://www.openwave.com.bd/services/core-tech-stack/): The foundation AI needs to run reliably.
+- [AI Agents & RAG](https://www.openwave.com.bd/services/ai-agents-rag/): Assistants that answer from your knowledge and take real actions.
+- [Orchestration & Automation](https://www.openwave.com.bd/services/orchestration-automation/): Connect your systems and let routine work run itself.
+- [Data & Analytics](https://www.openwave.com.bd/services/data-analytics/): One version of the truth, on every screen.
+- [Custom Software](https://www.openwave.com.bd/services/custom-software/): Web apps, portals and integrations built around your work.
+- [Cloud & DevOps](https://www.openwave.com.bd/services/cloud-devops/): Modern infrastructure: fast to change, hard to break.
+- [Cybersecurity & Compliance](https://www.openwave.com.bd/services/cybersecurity/): Protect your data, people and AI systems.
+- [Managed Services](https://www.openwave.com.bd/services/managed-services/): We run it, monitor it and fix it — with clear SLAs.
+- [Open-Source Solutions](https://www.openwave.com.bd/services/open-source-solutions/): Proven open-source platforms — deployed and supported.
+- [Licensed Software](https://www.openwave.com.bd/services/licensed-software/): Enterprise software from major vendors, set up properly.
+
+## Solutions
+
+- [Knowledge Assistant](https://www.openwave.com.bd/solutions/knowledge-assistant/): Ask your organisation anything — get answers with sources.
+- [Customer Service AI](https://www.openwave.com.bd/solutions/customer-service-ai/): Instant answers on web and messaging — people when it matters.
+- [Document Intelligence](https://www.openwave.com.bd/solutions/document-intelligence/): Invoices, forms and contracts that process themselves.
+- [Private AI](https://www.openwave.com.bd/solutions/private-ai/): Modern AI on your own servers. Your data never leaves.
+- [Modern Workplace](https://www.openwave.com.bd/solutions/modern-workplace/): Email, documents, meetings and AI copilots — done right.
+- [ERP & Business Systems](https://www.openwave.com.bd/solutions/erp-business-systems/): Accounting, sales, inventory and HR in one system.
+- [Data & BI Dashboards](https://www.openwave.com.bd/solutions/data-bi/): Live numbers for every decision.
+- [Sales & CRM Automation](https://www.openwave.com.bd/solutions/sales-crm-automation/): Never lose a lead. Follow up automatically.
+
+## Industries
+
+Manufacturing & RMG, Banking & Finance, Healthcare, Retail & E-commerce, Telecom & Technology, Government & NGOs, Education, Agriculture & Export, Logistics, Real Estate & Construction.
+
+## Optional
+
+- [Questions & answers](https://www.openwave.com.bd/faq/): direct answers about Openwave
+- [Full text for AI assistants](https://www.openwave.com.bd/llms-full.txt)
+- [About](https://www.openwave.com.bd/about/)
+- [Contact](https://www.openwave.com.bd/contact/)
+
